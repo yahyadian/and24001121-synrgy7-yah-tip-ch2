@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Challenge Chapter 2</string>
+    <string name="how_was_the_service">Bagaimana pelayanan kami?</string>
+    <string name="round_up_tip">Nominal di bulatkan?</string>
+    <string name="amazing_20">Mantul (20%)</string>
+    <string name="good_18">Bagus (18%)</string>
+    <string name="ok_15">Sip (15%)</string>
+    <string name="tip_amount">Besaran Tip</string>
+    <string name="calculate">Hitung</string>
+    <string name="tip_image">gambar</string>
+    <string name="cost_of_service">Biaya Pelayanan</string>
+</resources>
